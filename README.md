@@ -1,78 +1,56 @@
-# WordPress Practical File
+# Web Programming Practical File
 
-This repository contains the practical files and assignments related to the Web Programming (WP) course. 
+This repository contains the practical files for the Web Programming course. The goal of this repository is to showcase various web technologies and their practical implementations, focusing on HTML, CSS, JavaScript, and other web-related concepts.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Technologies Used](#technologies-used)
+- [Practical Files](#practical-files)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Overview
 
-The goal of this repository is to demonstrate the concepts, features, and practical applications of WordPress in web development. It showcases the use of custom themes, plugins, widgets, and best practices for building and managing WordPress sites.
+This repository includes practical work done as part of the Web Programming course. The projects in this repo cover a wide range of topics, from basic HTML structures to advanced concepts like responsive design and web APIs.
 
-## Structure of the Repository
-
-The repository is organized into different folders and files that correspond to various practical exercises and assignments. Here's a brief overview of the structure:
-
-- **themes/**: Custom themes developed during the practicals.
-- **plugins/**: Custom plugins created and installed on the WordPress site.
-- **uploads/**: Media files and assets used in the practical exercises.
-- **configuration/**: Configuration files, including WordPress settings, wp-config.php, and others.
-- **docs/**: Documentation, reports, and any additional references related to the practical file.
-
-## How to Use
-
-To use or run these practical files:
-
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/wp-practical-file.git
-    ```
-
-2. Set up a local WordPress installation (e.g., using XAMPP, WAMP, or MAMP).
-
-3. Copy the theme and plugin folders to the `wp-content/` directory in your local WordPress installation:
-    - `wp-content/themes/`
-    - `wp-content/plugins/`
-
-4. Activate the theme or plugin from the WordPress dashboard under "Appearance" (for themes) or "Plugins" (for plugins).
-
-5. Browse through the `docs/` folder for the practical assignments, project reports, and references.
-
-## Practical Assignments
-
-This repository includes the following practical assignments:
-
-1. **Creating a Custom WordPress Theme**  
-   - Designing a custom theme from scratch.
-   - Implementing WordPress Loop, template tags, and custom templates.
-   - Adding theme support for various WordPress features like custom menus, post formats, etc.
-
-2. **Developing a Custom WordPress Plugin**  
-   - Writing a simple plugin to add new functionality to the site.
-   - Demonstrating hooks, filters, and shortcodes in plugin development.
-
-3. **Working with WordPress Widgets**  
-   - Creating custom widgets for the sidebar or footer.
-   - Adding settings for widget customization in the admin panel.
-
-4. **Implementing WordPress Security Best Practices**  
-   - Configuring `wp-config.php` for security.
-   - Protecting against common WordPress vulnerabilities.
+The aim is to practice the core skills needed to create, manage, and optimize web applications. Each practical has been organized into its own folder for easy navigation and understanding.
 
 ## Technologies Used
 
-- WordPress
-- PHP
-- MySQL
-- HTML/CSS
-- JavaScript (for plugin development)
-- MySQL Database
+The following technologies are used throughout this repository:
 
-## Contributing
+- **HTML5**: Used for creating the structure and content of web pages.
+- **CSS3**: Applied for styling and making the pages visually appealing and responsive.
+- **JavaScript**: Used to add interactivity and dynamic behavior to web pages.
+- **HTTP**: Understanding and implementation of HTTP request/response models.
+- **Web APIs**: Practical examples of web APIs, RESTful communication, and handling HTTP requests.
+- **Responsive Web Design**: Using media queries and frameworks like Bootstrap to make pages mobile-friendly.
 
-Feel free to contribute to this repository by opening issues or submitting pull requests. If you have any suggestions or improvements, please feel free to share!
+## Practical Files
 
-## License
+The following practical files are included in the repository:
 
-This repository is for educational purposes only and is licensed under the [MIT License](LICENSE).
+1. **Basic HTML and CSS**  
+   This section contains simple HTML and CSS code to demonstrate structure and styling for static web pages.
+   
+2. **Web Design Issues**  
+   This practical file demonstrates common web design issues like poor responsive design, slow load times, SEO problems, and accessibility issues.
 
----
+3. **HyperText Transfer Protocol (HTTP)**  
+   This practical focuses on the fundamentals of HTTP, including versions, client-server communication, and sample HTTP requests and responses.
 
-If you have any questions or need further details, feel free to reach out!
+4. **Web Development Best Practices**  
+   A series of examples that showcase web development best practices like minimizing HTTP requests, optimizing images, and making websites mobile-friendly.
 
+5. **JavaScript for Web Development**  
+   Practical exercises that demonstrate JavaScript for web interaction and manipulation, including form validation and DOM manipulation.
+
+## How to Use
+
+To use this repository:
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/web-programming-practical-file.git
