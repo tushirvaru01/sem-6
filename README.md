@@ -6,7 +6,6 @@ This repository contains the practical files for the Web Programming course. The
 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
-- [Practical Files](#practical-files)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
@@ -28,24 +27,7 @@ The following technologies are used throughout this repository:
 - **Web APIs**: Practical examples of web APIs, RESTful communication, and handling HTTP requests.
 - **Responsive Web Design**: Using media queries and frameworks like Bootstrap to make pages mobile-friendly.
 
-## Practical Files
 
-The following practical files are included in the repository:
-
-1. **Basic HTML and CSS**  
-   This section contains simple HTML and CSS code to demonstrate structure and styling for static web pages.
-   
-2. **Web Design Issues**  
-   This practical file demonstrates common web design issues like poor responsive design, slow load times, SEO problems, and accessibility issues.
-
-3. **HyperText Transfer Protocol (HTTP)**  
-   This practical focuses on the fundamentals of HTTP, including versions, client-server communication, and sample HTTP requests and responses.
-
-4. **Web Development Best Practices**  
-   A series of examples that showcase web development best practices like minimizing HTTP requests, optimizing images, and making websites mobile-friendly.
-
-5. **JavaScript for Web Development**  
-   Practical exercises that demonstrate JavaScript for web interaction and manipulation, including form validation and DOM manipulation.
 
 ## How to Use
 
