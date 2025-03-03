@@ -23,11 +23,6 @@ The following technologies are used throughout this repository:
 - **HTML5**: Used for creating the structure and content of web pages.
 - **CSS3**: Applied for styling and making the pages visually appealing and responsive.
 - **JavaScript**: Used to add interactivity and dynamic behavior to web pages.
-- **HTTP**: Understanding and implementation of HTTP request/response models.
-- **Web APIs**: Practical examples of web APIs, RESTful communication, and handling HTTP requests.
-- **Responsive Web Design**: Using media queries and frameworks like Bootstrap to make pages mobile-friendly.
-
-
 
 ## How to Use
 
