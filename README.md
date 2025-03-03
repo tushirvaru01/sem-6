@@ -1,7 +1,6 @@
 # WordPress Practical File
 
-This repository contains the practical files and assignments related to the WordPress (WP) course. It includes various exercises, themes, plugins, and configurations used to learn and implement WordPress functionalities.
-
+This repository contains the practical files and assignments related to the Web Programming (WP) course. 
 ## Overview
 
 The goal of this repository is to demonstrate the concepts, features, and practical applications of WordPress in web development. It showcases the use of custom themes, plugins, widgets, and best practices for building and managing WordPress sites.
